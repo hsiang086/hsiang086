@@ -52,6 +52,8 @@ fn main() {
 <br>
 
 <p align="center">
-  <img width="75%" src="https://github-readme-stats.vercel.app/api?username=Hsiang086&show_icons=true&theme=radical" alt="Hsiang's GitHub Stats" />
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsiang086&layout=compact&theme=radical" alt="Hsiang's Top Languages" />
+  <p align="center">
+    <img style="display:inline-block; height: 200px; width=49.5%;" src="https://github-readme-stats.vercel.app/api?username=Hsiang086&show_icons=true&theme=radical" alt="Hsiang's GitHub Stats" />
+    <img style="display:inline-block; height: 200px; width=49.5%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsiang086&layout=compact&theme=radical" alt="Hsiang's Top Languages" />
+  </p>
 </p>
