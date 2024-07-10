@@ -7,9 +7,10 @@ Hey there! I'm Hsiang, a software engineer from Taiwan. I'm currently studying i
 <br>
 <p>
 <div align="center">
-  <!-- rust go python c++ c javascript -->
+  <!-- rust go asm python c++ c javascript -->
   <img src="https://img.shields.io/badge/-rust-orange?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/-assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -29,7 +30,7 @@ impl Hsiang {
   fn new() -> Self {
     Self {
       pronouns: "He/Him",
-      code: vec!["Rust", "Go", "Python", "C++", "C", "JavaScript"],
+      code: vec!["Rust", "Go", "Assembly", "Python", "C++", "C", "JavaScript"],
       tools: vec!["Docker", "Kubernetes", "Git", "GitHub", "VSCode", "Vim"],
       learning: vec!["Machine Learning", "Computer Vision", "Web Development"],
     }
